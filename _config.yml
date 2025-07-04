@@ -1,0 +1,8 @@
+author: Julie Boe
+description: Bites available July 16!
+domain: julieboe.com
+plugins:
+  - jekyll-feed
+theme: minima
+title: Author Julie Boe
+url: "https://julieboe.com"
