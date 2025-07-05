@@ -4,6 +4,7 @@ domain: julieboe.com
 google_analytics: G-W5GKHNRHCK
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 theme: minima
 title: Author Julie Boe
 url: "https://julieboe.com"
