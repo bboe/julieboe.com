@@ -11,6 +11,7 @@ Misfortune doesn’t knock, it kicks the door in. This mixed genre collection of
 
 - Release Date: July 16, 2025
 - [Purchase paperback or Kindle version on Amazon](https://amzn.to/3Iw42iz)
+- [Review on Amazon](https://www.amazon.com/review/create-review/?ie=UTF8&asin=B0FGS1JS9P)
 - [Discuss on Goodreads](https://www.goodreads.com/book/show/237830950-bites)
 
 ## About
