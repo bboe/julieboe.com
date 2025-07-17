@@ -5,7 +5,8 @@ google_analytics: G-W5GKHNRHCK
 permalink: /:categories/:title
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
   - jekyll-sitemap
-theme: minima
+remote_theme: jekyll/minima@593a05a
 title: Author Julie Boe
-url: "https://julieboe.com"
+url: https://julieboe.com
